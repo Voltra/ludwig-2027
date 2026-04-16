@@ -1,0 +1,22 @@
+{
+  "name": "ludwig-2027",
+  "version": "1.0.0",
+  "description": "Programme électorale pour la présidentielle 2027",
+  "homepage": "https://github.com/Voltra/ludwig-2027#readme",
+  "bugs": {
+    "url": "https://github.com/Voltra/ludwig-2027/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Voltra/ludwig-2027.git"
+  },
+  "license": "All rights reserved",
+  "author": "Voltra <dev@ludwig-guerin.fr>",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+      "dev": ""
+  },
+  "dependencies": {
+  }
+}

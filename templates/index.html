@@ -1,0 +1,11 @@
+{% extends "feather/templates/index.html" %}
+
+{% block extra_head %}
+    <link rel="stylesheet" href="/style.css"/>
+{% endblock extra_head %}
+
+{% block content %}
+<div class="container p-4">
+    {{ section.content | safe }}
+</div>
+{% endblock content %}

@@ -15,7 +15,8 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-      "dev": ""
+      "dev": "zola serve",
+      "build": "zola build -f --minify -o ./dist/ -u https://2027.ludwig-guerin.fr"
   },
   "dependencies": {
   }

@@ -1,48 +1,54 @@
 * {
-	box-siing: border-box;
-	overflow-wrap: normal;
+    box-siing: border-box;
+    overflow-wrap: normal;
 }
 
 body .container {
-	font-family: "OpenDyslexic", "Noto Emoji", "Verdana", "Trebuchet MS", "Arial", sans-serif;
+    font-family: "OpenDyslexic", "Noto Emoji", "Verdana", "Trebuchet MS", "Arial", sans-serif;
 }
 
 p, ul, ol #definition_popup {
-	font-family: inherit;
-	line-height: 1.6;
+    font-family: inherit;
+    line-height: 1.6;
 }
 
 nav {
-	box-shadow: 0 0 2px 0px rgba(#000,0.35);
+    box-shadow: 0 0 2px 0px rgba(#000, 0.35);
 }
 
 ul,
 ol {
-	list-style-position: outside;
-	padding-left: 2em;
+    list-style-position: outside;
+    padding-left: 2em;
 }
 
 li {
-	padding-bottom: 0.2em;
+    padding-bottom: 0.2em;
 }
 
 h1,
 .container h2,
 .container h3,
 .container h4 {
-	margin-bottom: 0.25em;
+    margin-bottom: 0.25em;
+}
+
+.nav-title {
+    font-size: 1.5em;
+    font-family: "Inter", sans-serif;
+    font-weight: 800;
 }
 
 .container {
-	padding: 1rem;
+    padding: 1rem;
 
-	h2,
-	h3,
-	h4 {
-		margin-top: 0.5em;
-	}
+    h2,
+    h3,
+    h4 {
+        margin-top: 0.5em;
+    }
 }
 
 h1 {
-	text-align: center;
+    text-align: center;
 }

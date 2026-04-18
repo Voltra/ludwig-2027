@@ -1,6 +1,28 @@
+@font-face {
+    font-family: "Inter";
+    src:
+        local("Inter Regular"),
+        local("Inter"),
+        url("/fonts/Inter/Inter-VariableFont_opsz,wght.ttf") format("truetype");
+    font-weight: 100 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Inter";
+    src:
+        local("Inter Italic"),
+        local("Inter"),
+        url("/fonts/Inter/Inter-Italic-VariableFont_opsz,wght.ttf") format("truetype");
+    font-weight: 100 900;
+    font-style: italic;
+}
+
 * {
-    box-siing: border-box;
+    box-sizing: border-box;
     overflow-wrap: normal;
+    font-variant-ligatures: common-ligatures;
+    font-variant-emoji: emoji;
 }
 
 body .container {
@@ -27,9 +49,9 @@ li {
 }
 
 h1,
-.container h2,
-.container h3,
-.container h4 {
+h2,
+h3,
+h4 {
     margin-bottom: 0.25em;
 }
 

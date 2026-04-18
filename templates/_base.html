@@ -92,6 +92,16 @@
         </div>
         {% endblock content %}
     </div>
+
+	<footer>
+		{% block footer %}
+		<p>
+			Feather theme by <a href="https://doomy.org" target="_blank">doomy</a>&nbsp;&nbsp;-&nbsp;&nbsp;Built with <a
+			href="https://getzola.org" target="_blank">Zola</a>&nbsp;&nbsp;-&nbsp;&nbsp;Sources on <a href="https://github.com/Voltra/ludwig-2027" target="_blank">Github</a>
+		</p>
+		{% endblock footer %}
+	</footer>
+
     {% if not config.extra.feather.theme %}
     <script>
         function change_theme(theme) {

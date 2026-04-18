@@ -22,6 +22,7 @@ Lignes directrices :
 - Interdiction formelle d'utiliser des actions ou parts dans des entreprises comme collatéraux bancaires
 - ISF à 75% dès 3 000 000€
 - Nationalisation des banques et de la banque centrale de France
+- Réduction de l'Accise sur les produits pétroliers (ex TICPE) à 0,10€/L
 - Taxe à 50% sur la détention d'actions au-delà de 10 000€
 
 ### Soutien aux entreprises et innovation
@@ -40,6 +41,7 @@ condamnations et leurs motifs
 - SMIC mensuel fixé pour 35h
   telle à la fois financièrement et par des RTT équivalent horaires
 - Toutes heures au-delà des 35h hebdomadaires est considérée comme heure supplémentaire et devra être compensée comme
+
 ## 2 - Sécurité et Justice
 ### Lutte contre la criminalité
 - Abolition du principe de rachat d'entreprises à valeur symbolique

@@ -152,6 +152,8 @@ condamnations et leurs motifs
 
 ## 7 - Institutions et Démocratie
 ### 7.1 - Réformes constitutionnelles
+
+- Abolition des 11 circonscriptions des Français établis hors de France (ingérence étrangère)
 - Explicitation de l'âge du consentement et de la majorité sexuelle à 18 ans (cf. loi Napoléon)
 - Fin de l'immunité diplomatique
 - Fin de l'immunité ministérielle
@@ -159,13 +161,11 @@ condamnations et leurs motifs
 - Fin des retraites multiples (≠ cumul des retraites)
 - Inéligibilité dès 60 ans
 - Inéligibilité si condamné en justice
-- Interdiction à vie (dès la 1ère élection/nomination) de la détention d'actions ou de parts pour les sénateurs,
-  députés, ministres, présidents, etc.
+- Interdiction à vie (dès la 1ère élection/nomination) de la détention d'actions ou de parts pour les sénateurs, députés, ministres, présidents, etc.
 - Interdiction formelle de cumul des mandants, quelqu'ils soient
+- Limite à 1 mandat pour chaque exercice (e.g. ministre, député, etc.)
 - Limite à 1 mandat présidentiel (au lieu de 2)
 - Limite de 2 ans à la présidence de la cour des comptes
-- Limite à 1 mandat pour chaque exercice (e.g. ministre, député, etc.)
-
 ### 7.2 - Réformes du Parlement
 - Salaires (i.e. total des sommes d'argents versées par l'état) des députés, sénateurs, ministres, etc. limités à 2.5x
   SMIC par mois
@@ -184,6 +184,7 @@ condamnations et leurs motifs
 ### 7.4 - Éthique publique et transparence
 - Déchéance de la nationalité Française si ingérence étrangère
 - Démission politique immédiate si mensonge aux Français
+- Interdiction de la pratique du lobbyisme
 - Obligation d'adhérer au Serment du Scientifique pour exercer tout métier scientifique
 - Prison à vie si corruption
 - Prison à vie si détournement de fonds
@@ -205,4 +206,3 @@ condamnations et leurs motifs
 - Une société plus égale
 - Une société plus fraternelle
 - Une société plus libre
-

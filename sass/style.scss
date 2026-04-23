@@ -23,6 +23,10 @@
 	font-variant-emoji: emoji;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 body .container {
 	font-family: "OpenDyslexic", "Noto Emoji", "Verdana", "Trebuchet MS", "Arial", sans-serif;
 }

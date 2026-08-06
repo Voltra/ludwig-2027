@@ -47,6 +47,8 @@ Lignes directrices :
 - Élargissement de la définition de monopole aux groupes et propriétés indirectes (à un quelconque niveau)
 - RGPD s'appliquera également aux services de l'État
 - RGPD tel que défini jusqu'en 2020 (et plus récent, sauf en cas d'assouplissements)
+- Retrait de la loi Yadan
+- Inscription d'une définition exacte pour "antisémitisme" dans le dictionnaire légal
 
 ### 2.2 - Réforme du système judiciaire
 - Abolition des délais de prescriptions pour les crimes graves (liste à définir précisément)
@@ -59,9 +61,9 @@ Lignes directrices :
 ### 2.3 - Police et Gendarmerie
 - Fin de l'autorisation globale du port d'armes
 - Port d'armes réservé à des escouades d'intervention
+- Retrait de la loi sur la présemption de légitime défense (i.e. de la loi "permis de tuer")
 
 ### 2.4 - Pénologie et réinsertion
-
 - Amende de 50% du CA pour les entreprises ne respectant pas le RGPD avec mise en demeure le temps de la mise en conformité du Système d'Information
 - Amende de 75% du CA pour les entreprises utilisant de la publicité mensongère
 - Amende de 90% du CA pour les entreprises ayant recours à l'exploitation ou l'obtention illégale de documents ou informations privées ou publiques dans le cadre de l'entraînement de modèles d'intelligence artificielle (rétroactif)
@@ -71,13 +73,15 @@ Lignes directrices :
 - Prison à vie pour les complices (ou non dénonciation) de crimes infligeant la prison à vie
 - Prison à vie pour pédophilie
 - Registre des agresseurs sexuels / pédophiles (rétroactif) avec obligation de l'informer aux voisins directs à chaque déménagement (prison avec surcis en cas de manquement)
+
 ## 3 - Éducation et Jeunesse
 ### 3.1 - École primaire et secondaire
 - Interdiction de tous systèmes de "tenues obligatoires" (e.g. uniformes)
 - Réintroduction du BAC "à l'ancienne" (fin du casse-tête d'organisation)
 
-## 3.2 - Enseignement supérieur et universités
+### 3.2 - Enseignement supérieur et universités
 - Interdiction de tous systèmes de "tenues obligatoires" (e.g. uniformes)
+- Renforcement des contrôles à la fraude à l'enseignement commies par les enseignants-chercheurs
 
 ### 3.3 - Formation professionnelle
 - Les alternances devront être compensées financièrement au minimum au SMIC
@@ -91,7 +95,7 @@ Lignes directrices :
 - Réouverture des lits fermés sans raison sous Macron 1 et 2
 
 ### 4.2 - Accès aux soins
-- //
+- Retrait des "limites Lecornu" sur les boîtes de médicaments et les consultations
 
 ### 4.3 - Retraite et régimes de pension
 - Âge minimal de la retraite à 60 ans
@@ -108,13 +112,14 @@ Lignes directrices :
 
 ### 5.2 - Biodiversité
 - Réintroduction d'espaces verts dans les villes (taux minimal requis à définir)
+- Retrait da la loi "urgence agricole" de 2026
 
 ### 5.3 - Agriculture durable
-
 - Dépollution des sols (objectifs à définir)
 - Directive visant à favoriser les produits issus de l'agriculture Française (VS de l'étranger)
 - Interdiction totale des engrais pouvant contenir ne serait ce que des traces de Cadmium ou autres métaux lourds
 - La mention "Agriculture Biologique" impliquera maintenant un examen approfondi des sols pour être en conformité avec les normes en vigueur et recommendations en matière de santé (échec = retrait de la mention)
+
 ### 5.4 - Transport et mobilité
 - Amélioration du tissu ferroviaire
 - Favorisation des transports en commun
@@ -127,6 +132,7 @@ Lignes directrices :
 ### 6.1 - Position dans l'UE et l'OTAN
 - Refus catégorique de l'euro numérique
 - Refus catégorique de l'identité numérique
+- Refus catégorique de Chat Control
 - Rester dans l'OTAN sauf si atteintes aux droits à la vie privée ou si surveillance généralisée, etc.
 - Rester dans l'UE sauf si atteintes aux droits à la vie privée ou si surveillance généralisée, etc.
 
@@ -134,7 +140,6 @@ Lignes directrices :
 - Taxe import/export vers/depuis les pays faisant de l'ingérence sur le territoire français
 
 ### 6.3 - Diplomatie et coopération internationale
-
 - Appliquer la norme "ne négocie pas avec les terroristes"
 - Détachement total des ex-colonies d'Afrique
   et arrêté
@@ -147,9 +152,9 @@ Lignes directrices :
 - Soutien aux pays oppressés
 - Taxe import/export vers/depuis des pays qui envahissent ou détruisent d'autres pays
 - Tout criminel au regard des lois internationales entrant dans le pays (ou son espace aérien/maritime) sera intercepté
+
 ## 7 - Institutions et Démocratie
 ### 7.1 - Réformes constitutionnelles
-
 - Abolition des 11 circonscriptions des Français établis hors de France (ingérence étrangère)
 - Explicitation de l'âge du consentement et de la majorité sexuelle à 18 ans (cf. loi Napoléon)
 - Fin de l'immunité diplomatique
@@ -163,8 +168,10 @@ Lignes directrices :
 - Limite à 1 mandat pour chaque exercice (e.g. ministre, député, etc.)
 - Limite à 1 mandat présidentiel (au lieu de 2)
 - Limite de 2 ans à la présidence de la cour des comptes
+- Destitution des nominations "par copinage" des quinquennats Macron et votes pour les nouvelles nominations
+
 ### 7.2 - Réformes du Parlement
-- Salaires (i.e. total des sommes d'argents versées par l'état) des députés, sénateurs, ministres, etc. limités à 2.5x SMIC par mois
+- Salaires (i.e. total des sommes d'argents versées par l'État) des députés, sénateurs, ministres, etc. limités à 2.5x SMIC par mois
 - Fin des avantages à vie des députés, sénateurs, ministres, présidents, etc. et ce, rétroactivement
 - Fin des avantages de fonction des sénateurs, ministres, etc. (e.g. chauffeurs, abonnements gratuits, enveloppes)
 - Granularisation des dossiers faisant la navette entre le Sénat et l'Assemblée nationale

@@ -90,3 +90,8 @@ h1 {
 [id] {
 	scroll-margin: 2em;
 }
+
+.container ul a[href] {
+	text-decoration: underline;
+	color: #1996B3;
+}

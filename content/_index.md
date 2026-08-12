@@ -6,13 +6,13 @@ extra.path = "/"
 
 ## Introduction
 Lignes directrices :
+- "Qui en tire bénéfice ?"
 - Au service du peuple
 - Égalité en droits et de traitement
 - Inadmissibilité de la surveillance (généralisée)
 - Informatique libre
 - Lutte contre les sangsues ultra-riches ou politiques
 - Pour le peuple, par le peuple
-- "Qui en tire bénéfice ?"
 - Rendre le pouvoir au peuple
 - Respect de la vie privée
 
@@ -26,8 +26,7 @@ Lignes directrices :
 - Taxe à 50% sur la détention d'actions au-delà de 10 000€
 
 ### 1.2 - Soutien aux entreprises et innovation
-- Faute grave de la part d'un employeur impliquera l'interdiction perpétuelle d'entreprendre ou d'occuper un poste à
-  forte responsabilité
+- Faute grave de la part d'un employeur impliquera l'interdiction perpétuelle d'entreprendre ou d'occuper un poste à forte responsabilité
 - Pôle de développement FLOSS interne au service public
 - Toute entreprise reconnue coupable aux Prud'hommes devra rejoindre un registre permanent qui dénombre le nombre de condamnations et leurs motifs
 - Transition numérique des services de l'État
@@ -45,11 +44,11 @@ Lignes directrices :
 - Abolition du principe de rachat d'entreprises à valeur symbolique
 - Durcissement et extension des lois sur la publicité mensongère (e.g. marketing mensonger)
 - Élargissement de la définition de monopole aux groupes et propriétés indirectes (à un quelconque niveau)
-- RGPD s'appliquera également aux services de l'État
-- RGPD tel que défini jusqu'en 2020 (et plus récent, sauf en cas d'assouplissements)
-- Retrait de la loi Yadan
 - Inscription d'une définition exacte pour "antisémitisme" dans le dictionnaire légal
 - Réintroduction des concepts de trahison et haute trahison
+- Retrait de la loi Yadan
+- RGPD s'appliquera également aux services de l'État
+- RGPD tel que défini jusqu'en 2020 (et plus récent, sauf en cas d'assouplissements)
 
 ### 2.2 - Réforme du système judiciaire
 - Abolition des délais de prescriptions pour les crimes graves (liste à définir précisément)
@@ -131,9 +130,9 @@ Lignes directrices :
 ## 6 - Affaires Étrangères et Défense
 
 ### 6.1 - Position dans l'UE et l'OTAN
+- Refus catégorique de Chat Control
 - Refus catégorique de l'euro numérique
 - Refus catégorique de l'identité numérique
-- Refus catégorique de Chat Control
 - Rester dans l'OTAN sauf si atteintes aux droits à la vie privée ou si surveillance généralisée, etc.
 - Rester dans l'UE sauf si atteintes aux droits à la vie privée ou si surveillance généralisée, etc.
 
@@ -156,6 +155,7 @@ Lignes directrices :
 ## 7 - Institutions et Démocratie
 ### 7.1 - Réformes constitutionnelles
 - Abolition des 11 circonscriptions des Français établis hors de France (ingérence étrangère)
+- Destitution des nominations "par copinage" des quinquennats Macron et votes pour les nouvelles nominations
 - Explicitation de l'âge du consentement et de la majorité sexuelle à 18 ans (cf. loi Napoléon)
 - Fin de l'immunité diplomatique
 - Fin de l'immunité ministérielle
@@ -168,15 +168,14 @@ Lignes directrices :
 - Limite à 1 mandat pour chaque exercice (e.g. ministre, député, etc.)
 - Limite à 1 mandat présidentiel (au lieu de 2)
 - Limite de 2 ans à la présidence de la cour des comptes
-- Destitution des nominations "par copinage" des quinquennats Macron et votes pour les nouvelles nominations
 - Retrait des mesures des quinquennats Macron visant à simplifier la mise en place d'un État d'urgence national sans vote ou consultation
 
 ### 7.2 - Réformes du Parlement
-- Salaires (i.e. total des sommes d'argents versées par l'État) des députés, sénateurs, ministres, etc. limités à 2.5x SMIC par mois
 - Fin des avantages à vie des députés, sénateurs, ministres, présidents, etc. et ce, rétroactivement
 - Fin des avantages de fonction des sénateurs, ministres, etc. (e.g. chauffeurs, abonnements gratuits, enveloppes)
 - Granularisation des dossiers faisant la navette entre le Sénat et l'Assemblée nationale
 - Interdiction de glisser dans les dossiers des projets de loi n'ayant aucun rapport avec le dossier
+- Salaires (i.e. total des sommes d'argents versées par l'État) des députés, sénateurs, ministres, etc. limités à 2.5x SMIC par mois
 
 ### 7.3 - Participation Citoyenne
 - Mise en place d'élection citoyennes à la place de nomination majeures (e.g. présidence de la cour des comptes)

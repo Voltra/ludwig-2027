@@ -49,6 +49,7 @@ Lignes directrices :
 - RGPD tel que défini jusqu'en 2020 (et plus récent, sauf en cas d'assouplissements)
 - Retrait de la loi Yadan
 - Inscription d'une définition exacte pour "antisémitisme" dans le dictionnaire légal
+- Réintroduction des concepts de trahison et haute trahison
 
 ### 2.2 - Réforme du système judiciaire
 - Abolition des délais de prescriptions pour les crimes graves (liste à définir précisément)
@@ -142,7 +143,6 @@ Lignes directrices :
 ### 6.3 - Diplomatie et coopération internationale
 - Appliquer la norme "ne négocie pas avec les terroristes"
 - Détachement total des ex-colonies d'Afrique
-  et arrêté
 - Fin immédiate de tous les accords et contrats avec Israël
 - Objectif de non-soumission et de non-vassalisation à l'international
 - Reconnaissance des crimes de l'état Français sur les pays d'Afrique
@@ -151,7 +151,7 @@ Lignes directrices :
 - Sanctions contre les pays oppresseurs
 - Soutien aux pays oppressés
 - Taxe import/export vers/depuis des pays qui envahissent ou détruisent d'autres pays
-- Tout criminel au regard des lois internationales entrant dans le pays (ou son espace aérien/maritime) sera intercepté
+- Tout criminel au regard des lois internationales entrant dans le pays (ou son espace aérien/maritime) sera intercepté et arrêté
 
 ## 7 - Institutions et Démocratie
 ### 7.1 - Réformes constitutionnelles
@@ -169,6 +169,7 @@ Lignes directrices :
 - Limite à 1 mandat présidentiel (au lieu de 2)
 - Limite de 2 ans à la présidence de la cour des comptes
 - Destitution des nominations "par copinage" des quinquennats Macron et votes pour les nouvelles nominations
+- Retrait des mesures des quinquennats Macron visant à simplifier la mise en place d'un État d'urgence national sans vote ou consultation
 
 ### 7.2 - Réformes du Parlement
 - Salaires (i.e. total des sommes d'argents versées par l'État) des députés, sénateurs, ministres, etc. limités à 2.5x SMIC par mois

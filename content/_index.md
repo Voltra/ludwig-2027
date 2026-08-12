@@ -81,7 +81,7 @@ Lignes directrices :
 
 ### 3.2 - Enseignement supérieur et universités
 - Interdiction de tous systèmes de "tenues obligatoires" (e.g. uniformes)
-- Renforcement des contrôles à la fraude à l'enseignement commies par les enseignants-chercheurs
+- Renforcement des contrôles à la fraude à l'enseignement commise par des enseignants-chercheurs
 
 ### 3.3 - Formation professionnelle
 - Les alternances devront être compensées financièrement au minimum au SMIC
@@ -204,7 +204,7 @@ Lignes directrices :
 
 ## Conclusion
 - Au service du peuple
-- Limitation des pouvoirs et influences qu'un individu peut avoir
+- Limitation des pouvoirs et influences qu'une personne peut avoir
 - Une société moins corrompue
 - Une société plus égale
 - Une société plus fraternelle
